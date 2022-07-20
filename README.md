@@ -26,7 +26,7 @@ Or just type in this for installing all of them together
   
 + _change directory_ to `motion-detector`(which will newly appear on the location your terminal was running before), so you simply type
 
-    ```cd  motion-detector```
+    ```cd  opencv_motion_detector```
   
  + then accomplish the requirements and then _execute_ the python file by
  
